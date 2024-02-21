@@ -7,7 +7,6 @@ This project is broken down into the following tasks:
 - Calculate quartiles, find outliers, and create a box plot.
 - Create a line plot and a scatter plot.
 - Calculate correlation and regression.
-- Submit the final analysis.
 
 **Prepare the Data**
 
